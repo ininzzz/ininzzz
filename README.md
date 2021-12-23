@@ -6,4 +6,4 @@
 
 🏷: C++/Linux
 
-💬: the origin account is broken
+💬: the other account is broken
