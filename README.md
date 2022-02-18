@@ -1,3 +1,3 @@
 💻: C++/Linux
 
-💬: the other account is broken
+💬: Stupid is as stupid does.
